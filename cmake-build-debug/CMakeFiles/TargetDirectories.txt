@@ -1,0 +1,3 @@
+F:/clion projects/computr-graphics/cmake-build-debug/CMakeFiles/computr_graphics.dir
+F:/clion projects/computr-graphics/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/clion projects/computr-graphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
