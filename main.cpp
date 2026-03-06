@@ -141,6 +141,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
     wc.lpfnWndProc = WindowProc;
     wc.hInstance = hInstance;
     wc.lpszClassName = CLASS_NAME;
+    wc.hbrBackground = CreateSolidBrush(RGB(30, 30, 30)); // background color
 
     RegisterClass(&wc);
 
